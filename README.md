@@ -29,7 +29,7 @@
 - Tiene bastante información que puede ser de utilidad para el debugging de la aplicación
 
 ### 5. Subir el código
-
+- Seleccionar NodeMCU-32S como la tarjeta a utilizar en la pestaña de Tools
 - Para subir el código se necesita tener la tarjeta conectada, mientras se sube se debe presionar el botón "boot"
 - Abrir la ventana de comunicación Serial.
 - Activar el bluetooth en el teléfono e iniciar la comunicación en la aplicación, no se necesita parear desde la configuración del teléfono
