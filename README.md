@@ -24,18 +24,18 @@
 ### 3.Dependencies
 - No se necesitan dependencias particulares aparte de las ya instaladas.
 
-## 4. Descargar la aplicación nRF Connect de Nordic Semiconductor
+### 4. Descargar la aplicación nRF Connect de Nordic Semiconductor
 
 - Tiene bastante información que puede ser de utilidad para el debugging de la aplicación
 
-## 5. Subir el código
+### 5. Subir el código
 
 - Para subir el código se necesita tener la tarjeta conectada, mientras se sube se debe presionar el botón "boot"
 - Abrir la ventana de comunicación Serial.
 - Activar el bluetooth en el teléfono e iniciar la comunicación en la aplicación, no se necesita parear desde la configuración del teléfono
 - En la pantalla se verá lo que se mande al NodeMCU.
 
-## 6. Uso
+### 6. Uso
 
 - Una vez que el código está arriba, la ventana de comunicación serial del IDE abierta, el BT activado y la aplicación abierta, procedemos a conectar.
 - En la aplicación en la sección de Scan se debe escanear y encontrar el dispositivo, darle conectar e ir a la pestaña del dispositivo. En la IDE debe aparecer que se conectó desde la App.
