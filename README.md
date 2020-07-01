@@ -3,7 +3,7 @@
 
 ## Set up
 
-### 1.Instalar Arduino IDE con version 1.8.9
+### 1.Instalar Arduino IDE con version >= 1.8.9
 
 ### 2.Agregar ESP32  Boards Manager
 
@@ -22,7 +22,7 @@
 
 ## 5. Subir el código
 
-- Para subir el código se necesita tener el archivo abierto y la tarjeta conectada, mientras se sube se debe presionar el botón "boot"
+- Para subir el código se necesita tener la tarjeta conectada, mientras se sube se debe presionar el botón "boot"
 - Abrir la ventana de comunicación Serial.
 - Emparejar el dispositivo con nombre "ESP32_BT_Control" e iniciar la comunicación en la aplicación
 - En la pantalla se verá lo que se mande al NodeMCU.
